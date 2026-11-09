@@ -2,6 +2,13 @@
   <img src="docs/images/draftwright-logo.png" alt="draftwright" width="460">
 </h1>
 
+> **This Python implementation is archived.** Draftwright continues in Rust at
+> [pzfreo/draftwright](https://github.com/pzfreo/draftwright) (`cargo install draftwright`),
+> in the browser at [draftwright.io](https://draftwright.io), and for AI agents at
+> mcp.draftwright.io. The last Python releases on PyPI are 0.4.35 and 0.5.0rc13; pin
+> `draftwright<0.6` to keep using them.
+
+
 [![CI](https://github.com/pzfreo/draftwright/actions/workflows/ci.yml/badge.svg)](https://github.com/pzfreo/draftwright/actions/workflows/ci.yml)
 [![Docs](https://github.com/pzfreo/draftwright/actions/workflows/docs.yml/badge.svg)](https://pzfreo.github.io/draftwright/)
 [![codecov](https://codecov.io/gh/pzfreo/draftwright/branch/main/graph/badge.svg)](https://codecov.io/gh/pzfreo/draftwright)
