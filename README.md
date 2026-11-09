@@ -2,7 +2,7 @@
   <img src="docs/images/draftwright-logo.png" alt="draftwright" width="460">
 </h1>
 
-> **This Python implementation is archived.** Draftwright continues in Rust at
+> **This Python implementation is no longer developed.** Draftwright continues in Rust at
 > [pzfreo/draftwright](https://github.com/pzfreo/draftwright) (`cargo install draftwright`),
 > in the browser at [draftwright.io](https://draftwright.io), and for AI agents at
 > mcp.draftwright.io. From 0.6.0, `pip install draftwright` installs the Rust command-line
