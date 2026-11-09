@@ -2,16 +2,17 @@
   <img src="docs/images/draftwright-logo.png" alt="draftwright" width="460">
 </h1>
 
-> **This Python implementation is archived.** Draftwright continues in Rust at
+> **This Python implementation is no longer developed.** Draftwright continues in Rust at
 > [pzfreo/draftwright](https://github.com/pzfreo/draftwright) (`cargo install draftwright`),
 > in the browser at [draftwright.io](https://draftwright.io), and for AI agents at
-> mcp.draftwright.io. The last Python releases on PyPI are 0.4.35 and 0.5.0rc13; pin
-> `draftwright<0.6` to keep using them.
+> mcp.draftwright.io. From 0.6.0, `pip install draftwright` installs the Rust command-line
+> tool. The last Python releases on PyPI are 0.4.35 and 0.5.0rc13; pin `draftwright<0.6` to
+> keep using this package.
 
 
-[![CI](https://github.com/pzfreo/draftwright/actions/workflows/ci.yml/badge.svg)](https://github.com/pzfreo/draftwright/actions/workflows/ci.yml)
-[![Docs](https://github.com/pzfreo/draftwright/actions/workflows/docs.yml/badge.svg)](https://pzfreo.github.io/draftwright/)
-[![codecov](https://codecov.io/gh/pzfreo/draftwright/branch/main/graph/badge.svg)](https://codecov.io/gh/pzfreo/draftwright)
+[![CI](https://github.com/pzfreo/draftwright-python/actions/workflows/ci.yml/badge.svg)](https://github.com/pzfreo/draftwright-python/actions/workflows/ci.yml)
+[![Docs](https://github.com/pzfreo/draftwright-python/actions/workflows/docs.yml/badge.svg)](https://pzfreo.github.io/draftwright-python/)
+[![codecov](https://codecov.io/gh/pzfreo/draftwright-python/branch/main/graph/badge.svg)](https://codecov.io/gh/pzfreo/draftwright-python)
 [![PyPI](https://img.shields.io/pypi/v/draftwright.svg)](https://pypi.org/project/draftwright/)
 [![Python](https://img.shields.io/pypi/pyversions/draftwright.svg)](https://pypi.org/project/draftwright/)
 [![Downloads](https://static.pepy.tech/badge/draftwright/month)](https://pepy.tech/project/draftwright)
@@ -20,8 +21,8 @@
 [![mypy](https://img.shields.io/badge/mypy-checked-2a6db2.svg)](https://mypy-lang.org/)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
-**[API reference](https://pzfreo.github.io/draftwright/)** ·
-**[Examples and source](https://github.com/pzfreo/draftwright#readme)**
+**[API reference](https://pzfreo.github.io/draftwright-python/)** ·
+**[Examples and source](https://github.com/pzfreo/draftwright-python#readme)**
 
 Automated technical-drawing generation for [build123d](https://github.com/gumyr/build123d).
 Point it at a solid (or a STEP file) and get a fully-annotated multi-view engineering
